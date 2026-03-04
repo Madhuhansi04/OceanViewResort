@@ -1,0 +1,10 @@
+com\oceanview\test\BillModelTest.class
+com\oceanview\test\GuestModelTest.class
+com\oceanview\test\ReservationServiceTest.class
+com\oceanview\test\SessionUtilTest.class
+com\oceanview\test\UserModelTest.class
+com\oceanview\test\ReservationModelTest.class
+com\oceanview\test\RoomModelTest.class
+com\oceanview\test\ValidationUtilTest.class
+com\oceanview\test\RoomTypeModel.class
+com\oceanview\test\BillingServiceTest.class

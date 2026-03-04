@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+OceanViewResort,com.oceanview.model,Room,0,38,0,0,0,13,0,11,0,11
+OceanViewResort,com.oceanview.model,Guest,0,45,0,0,0,14,0,13,0,13
+OceanViewResort,com.oceanview.model,Bill,0,52,0,0,0,20,0,15,0,15
+OceanViewResort,com.oceanview.model,User,18,38,0,0,7,11,1,11,1,11
+OceanViewResort,com.oceanview.model,RoomType,10,21,0,0,4,7,3,6,3,6
+OceanViewResort,com.oceanview.model,Reservation,7,52,0,0,3,18,2,15,2,15
+OceanViewResort,com.oceanview.util,ValidationUtil,15,30,0,12,5,4,2,9,2,3

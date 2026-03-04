@@ -170,7 +170,7 @@
                         <span class="value">
                                 ${bill.reservation.guest.nic}</span>
                     </div>
-
+                </div>
                 <div class="info-section">
                     <h3>🏨 Room Details</h3>
                     <div class="info-row">
